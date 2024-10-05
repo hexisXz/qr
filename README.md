@@ -1,6 +1,7 @@
 # WELCOME!
 
-<div style="width:100%;height:0;padding-bottom:77%;position:relative;"><iframe src="https://giphy.com/embed/11JTxkrmq4bGE0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+![Alt Text](https://giphy.com/embed/11JTxkrmq4bGE0)
+
 
 # what is this?
 this is a test doc for anyone who scanned the QR code because i love QR codes and thought this would be cool...
